@@ -1,0 +1,31 @@
+{
+    "guild_id": {
+        "category_id": 123456789,
+        "channel_id": 987654321,
+        "settings_channel_id": 456789123,
+        "support_enabled": true,
+        "max_tickets": 50,
+        "active_tickets": {
+            "ticket_channel_id": {
+                "user_id": 11111111,
+                "claimed_by": 22222222
+            }
+        }
+    },
+    "1302356874196160623": {
+        "category_id": 1302405045488324689,
+        "channel_id": 1302405046557741138,
+        "settings_channel_id": null,
+        "support_enabled": true,
+        "max_tickets": 2,
+        "active_tickets": {}
+    },
+    "12345": {
+        "category_id": 1,
+        "channel_id": 1,
+        "settings_channel_id": null,
+        "support_enabled": true,
+        "max_tickets": 50,
+        "active_tickets": {}
+    }
+}
